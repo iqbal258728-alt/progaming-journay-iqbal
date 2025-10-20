@@ -1,8 +1,0 @@
-C:\Users\mp2ct\OneDrive\Documents\iqbal svc\Praktik 4.1_Rizkiiqbaltawakkal_XPPLG1\Praktik 4.1_Rizkiiqbaltawakkal_XPPLG1\bin\Debug\Praktik 4.1_Rizkiiqbaltawakkal_XPPLG1.exe.config
-C:\Users\mp2ct\OneDrive\Documents\iqbal svc\Praktik 4.1_Rizkiiqbaltawakkal_XPPLG1\Praktik 4.1_Rizkiiqbaltawakkal_XPPLG1\bin\Debug\Praktik 4.1_Rizkiiqbaltawakkal_XPPLG1.exe
-C:\Users\mp2ct\OneDrive\Documents\iqbal svc\Praktik 4.1_Rizkiiqbaltawakkal_XPPLG1\Praktik 4.1_Rizkiiqbaltawakkal_XPPLG1\bin\Debug\Praktik 4.1_Rizkiiqbaltawakkal_XPPLG1.pdb
-C:\Users\mp2ct\OneDrive\Documents\iqbal svc\Praktik 4.1_Rizkiiqbaltawakkal_XPPLG1\Praktik 4.1_Rizkiiqbaltawakkal_XPPLG1\obj\Debug\Praktik 4.1_Rizkiiqbaltawakkal_XPPLG1.csproj.AssemblyReference.cache
-C:\Users\mp2ct\OneDrive\Documents\iqbal svc\Praktik 4.1_Rizkiiqbaltawakkal_XPPLG1\Praktik 4.1_Rizkiiqbaltawakkal_XPPLG1\obj\Debug\Praktik 4.1_Rizkiiqbaltawakkal_XPPLG1.csproj.CoreCompileInputs.cache
-C:\Users\mp2ct\OneDrive\Documents\iqbal svc\Praktik 4.1_Rizkiiqbaltawakkal_XPPLG1\Praktik 4.1_Rizkiiqbaltawakkal_XPPLG1\obj\Debug\Praktik 4.1_Rizkiiqbaltawakkal_XPPLG1.exe
-C:\Users\mp2ct\OneDrive\Documents\iqbal svc\Praktik 4.1_Rizkiiqbaltawakkal_XPPLG1\Praktik 4.1_Rizkiiqbaltawakkal_XPPLG1\obj\Debug\Praktik 4.1_Rizkiiqbaltawakkal_XPPLG1.pdb
-C:\Users\mp2ct\OneDrive\Documents\iqbal svc\Praktik 4.1_Rizkiiqbaltawakkal_XPPLG1\Praktik 4.1_Rizkiiqbaltawakkal_XPPLG1\obj\Debug\Praktik 4.1_Rizkiiqbaltawakkal_XPPLG1.exe.config
